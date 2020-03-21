@@ -4,5 +4,10 @@
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
-  "cordova": {}
+  "cordova": {},
+  "linuxAndroidStudioPath": "/snap/bin/android-studio",
+  "server": {
+    "url": "http://192.168.0.248:8100",
+    "cleartext": true
+  }
 }
